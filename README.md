@@ -119,9 +119,12 @@ function checkPassword() {
 
 <div id="secret">
 
-<h2>Titre</h2>
+<h2>La jetée</h2>
 
-<p>Texte.</p>
+<p>Bravo, tu as trouvé le code, te voilà sur les traces de la perle, au commencement de toute cette histoire.
+
+
+Mon grand-père m’a raconté avoir connu cet homme. Il ne parlait jamais, abattu par le chagrin. On le voyait souvent seul , assis sur un banc proche du phare..</p>
 
 </div>
 
